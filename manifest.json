@@ -1,7 +1,7 @@
 {
-    "version":  "2.1.2",
+    "version":  "2.1.3",
     "target":  "HS01-4G-LTE",
-    "size":  626112,
-    "sha256":  "15adcdbe69407693491323b0ce36e7a17f5699e45a03205ef0c231cfa7a6471b",
-    "url":  "https://github.com/sridhar03361/ZH-Home-Security-OTA-Releases/releases/download/v2.1.2/firmware.bin"
+    "size":  627200,
+    "sha256":  "0004635d0423e367c55bdd397179b8abc6e0aedb816326e8640695d96cb119db",
+    "url":  "https://github.com/sridhar03361/ZH-Home-Security-OTA-Releases/releases/download/v2.1.3/firmware.bin"
 }
